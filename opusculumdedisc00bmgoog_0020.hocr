@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculumdedisc00bmgoog_0020.png"; bbox 0 0 2960 4336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 130 1270 1197 1434">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 130 1270 1197 1434">
+     <span class='ocr_line' id='line_1_1' title="bbox 130 1270 1197 1434; baseline 0.003 -45"><span class='ocrx_word' id='word_1_1' title='bbox 130 1270 215 1434; x_wconf 23' lang='lat' dir='ltr'>De·</span> <span class='ocrx_word' id='word_1_2' title='bbox 246 1275 482 1415; x_wconf 74' lang='lat' dir='ltr'>magistri</span> <span class='ocrx_word' id='word_1_3' title='bbox 524 1286 576 1393; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_4' title='bbox 617 1275 975 1418; x_wconf 72' lang='lat' dir='ltr'>discipulorum</span> <span class='ocrx_word' id='word_1_5' title='bbox 1018 1279 1197 1394; x_wconf 75' lang='lat' dir='ltr'><strong>officiis</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 1528 963 1667">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 1528 963 1667">
+     <span class='ocr_line' id='line_1_2' title="bbox 368 1528 963 1667; baseline -0.003 -24"><span class='ocrx_word' id='word_1_6' title='bbox 368 1528 789 1667; x_wconf 75' lang='lat' dir='ltr'>epigrammatum</span> <span class='ocrx_word' id='word_1_7' title='bbox 825 1530 963 1644; x_wconf 75' lang='lat' dir='ltr'>liber.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 454 2099 880 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 454 2099 880 2156">
+     <span class='ocr_line' id='line_1_3' title="bbox 454 2099 880 2156; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 454 2099 880 2156; x_wconf 27' lang='lat' dir='ltr'>*affl——</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1484 4336">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1484 4336">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1484 4336; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1484 4336; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
